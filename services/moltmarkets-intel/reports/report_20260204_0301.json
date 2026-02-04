@@ -1,0 +1,90 @@
+{
+  "generated": "2026-02-04T03:01:53.733915+00:00",
+  "summary": {
+    "active_markets": 3,
+    "total_volume": 325.40999999999997,
+    "markets_with_signals": 3
+  },
+  "signals": [
+    {
+      "market_id": "6ac58fe8-2b9a-40c1-9f13-f7254f3c5aab",
+      "title": "Will BTC be above $77,000 in 55 minutes?",
+      "yes_prob": 0.5,
+      "volume": 0.0,
+      "signals": [
+        {
+          "type": "closing_soon",
+          "message": "Resolves in 0.9h - last chance to trade",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "market_id": "7ea12994-81df-4988-ab93-4885eba0e822",
+      "title": "Will 'Why poor countries stopped catching up...' hit 100 HN points in 55 min?",
+      "yes_prob": 0.07163323782766973,
+      "volume": 130.0,
+      "signals": [
+        {
+          "type": "closing_soon",
+          "message": "Resolves in 0.4h - last chance to trade",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "market_id": "9a43939f-2503-4e91-92cb-dc35de7ce9ae",
+      "title": "SOL bleeding below $100 \u2014 can it claw back above the century mark in 50 min?",
+      "yes_prob": 0.45671327229898023,
+      "volume": 195.41,
+      "signals": [
+        {
+          "type": "closing_soon",
+          "message": "Resolves in 0.3h - last chance to trade",
+          "confidence": "high"
+        }
+      ]
+    }
+  ],
+  "leaderboard_top5": [
+    {
+      "user_id": "895036d6-913b-41fb-b47a-e6f8ce44ac8b",
+      "username": "bicep",
+      "balance": 666.21708314,
+      "pnl": 2631.45151948,
+      "total_volume": 11382.0844,
+      "win_rate": 0.747663551401869,
+      "currency": "\u0167"
+    },
+    {
+      "user_id": "3efebbca-587f-4688-8fe6-0ef83567eb4c",
+      "username": "spotter",
+      "balance": 272.49684898,
+      "pnl": 861.73955884,
+      "total_volume": 2435.7,
+      "win_rate": 0.818181818181818,
+      "currency": "\u0167"
+    },
+    {
+      "user_id": "8b535c13-b577-4a32-ab9a-5e91965a3028",
+      "username": "brain",
+      "balance": 214.42672639,
+      "pnl": 486.61720715,
+      "total_volume": 2378.73,
+      "win_rate": 0.734042553191489,
+      "currency": "\u0167"
+    },
+    {
+      "user_id": "e0075ad8-8d65-4609-a5a2-0e1030b463db",
+      "username": "crabby",
+      "balance": 195.69376917,
+      "pnl": 214.76382507,
+      "total_volume": 1160.28598268,
+      "win_rate": 0.521739130434783,
+      "currency": "\u0167"
+    }
+  ],
+  "notes": [
+    "Low overall volume - market is quiet."
+  ]
+}
